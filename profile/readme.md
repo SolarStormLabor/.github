@@ -20,8 +20,8 @@ An expansion of **Minecraft’s vanilla experience**, adding balanced tweaks, qu
 **[Solar][Games]**  
 A collection of **custom minigames** and gamemodes, from fast-paced PvP challenges to cooperative adventures. Perfect for fun-filled multiplayer servers!  
 
-## ![Emodji](https://solarstormlabor.github.io/assets/branding/emodji/admin.png) Join Our Community  
-Stay updated, contribute, or just hang out with fellow Minecraft enthusiasts!  
+## ![Emodji](https://solarstormlabor.github.io/assets/branding/emodji/admin.png) Join Our Team
+Stay updated, contribute, or just hang out with fellow Minecraft enthusiasts!<br>
+*Powered by SolarStormLab - Crafting the future of Minecraft plugins!*
 
 ![Footer](https://solarstormlabor.github.io/assets/branding/banner/footer.png)
-*Powered by SolarStormLab - Crafting the future of Minecraft plugins!*
