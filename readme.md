@@ -1,4 +1,7 @@
-# ![SolarStormLab](https://solarstormlabor.github.io/assets/branding/emodji/logo.png) Community & Discussions  
+![SolarStormLab](https://solarstormlabor.github.io/assets/branding/banner/text.png)
+<hr><br>
+
+# ![Logo](https://solarstormlabor.github.io/assets/branding/emodji/logo.png) Community & Discussions  
 
 Welcome to the **SolarStormLab Community Hub**! 🎉  
 This is the place for **Minecraft server admins, developers, and players** to discuss our plugins, suggest features, report issues, and collaborate on projects.  
