@@ -1,6 +1,5 @@
 ![SolarStormLab](https://solarstormlabor.github.io/assets/branding/banner/text.png)
 
-# SolarStormLab Github OpenSpace 
 Here you can find all of our open source projects from `SolarLab` all the plugins and apis.<br>
 You can add issues, quesstions and more on [SolarStormLabor/github](https://github.com/SolarStormLabor/.github/) our community repo.<br>
 All of our assets and logo you can get are on the assets repo [SolarStormLabor/assets](https://github.com/SolarStormLabor/assets/) or on https://solarstormlabor.github.io/assets/
@@ -11,6 +10,8 @@ All of our assets and logo you can get are on the assets repo [SolarStormLabor/a
 
 ## ![Emodji](https://solarstormlabor.github.io/assets/branding/emodji/admin.png) Join Our Community
 Stay updated, contribute, or just hang out with fellow Minecraft enthusiasts!<br>
-*Powered by SolarStormLab - Crafting the future of Minecraft plugins!*
 
+
+*Powered by SolarStormLab - Crafting the future of Minecraft plugins!*
+<!-- Footer for all readme.md files
 ![Footer](https://solarstormlabor.github.io/assets/branding/banner/footer.png)
