@@ -9,7 +9,7 @@ This is the place for **Minecraft server admins, developers, and players** to di
 - **Discussions:** Join the conversation in [Discussions](https://github.com/SolarStormLabor/.github/discussions).
 
 
-## Who Will Find This Useful?
+## ![Logo](https://solarstormlabor.github.io/assets/branding/emodji/admin.png) Who Will Find This Useful?
 
 | Role | How You Can Benefit |
 |------|---------------------|
@@ -18,7 +18,7 @@ This is the place for **Minecraft server admins, developers, and players** to di
 | **Content Creators** | Suggest features that would enhance gameplay |
 | **Players** | Provide feedback on gameplay experience |
 
-## Community Guidelines
+## ![Logo](https://solarstormlabor.github.io/assets/branding/emodji/helper.png) Community Guidelines
 We believe in fostering a positive, productive environment for everyone. Here's how we can work together effectively:
 
 **Encouraged Behaviors**  
@@ -33,7 +33,7 @@ We believe in fostering a positive, productive environment for everyone. Here's 
 **Off-topic Content** - Unrelated advertising or spam  
 **Duplicate Posts** - Creating repeat issues without checking first  
 
-## Getting Started
+## ![Logo](https://solarstormlabor.github.io/assets/branding/emodji/logo.png) Getting Started
 Ready to dive in? Here's how to participate:
 1. **Browse** existing discussions to see what's already being talked about
 2. **Search** before posting to avoid duplicates
